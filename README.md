@@ -3,3 +3,4 @@ It will include
 - Numpy
 - Pandas
 - Matplotlib
+- Seaborn
